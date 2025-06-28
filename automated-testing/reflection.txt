@@ -1,0 +1,13 @@
+AI-Assisted Testing vs Manual Testing
+
+Using Selenium IDE to automate login testing showed how AI-assisted tools can drastically improve the efficiency of software testing.
+With just a few clicks, I was able to record both successful and failed login attempts, then replay them without manually repeating each
+step. This kind of automation is especially helpful in regression testing or when you need to test the same thing across different builds 
+or browsers. Compared to manual testing, where you'd type in credentials, click submit, and verify results every single time, AI-assisted 
+tools save time, reduce human error, and boost consistency.
+
+However, AI-assisted testing isn't perfect. It still relies on proper setup, and if the webpage structure changes, the recorded steps might 
+break. It also doesn't "think", it just follows the flow you recorded. Manual testing is still better for creative edge cases, exploratory 
+testing, or interpreting unexpected UI behavior. So while AI tools like Selenium IDE are powerful, they're best used alongside manual testing — 
+not as a full replacement.
+
